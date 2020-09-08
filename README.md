@@ -11,5 +11,5 @@ Downloaded the dataset from the link provided in the Shoipfy challenge doc.
 3. Matplotlib
 
 Analysis and Solution: 
-Please visit the notebook [link](https://github.com/kiranrawat/Shopify-Data-Science-Internships-Winter-2021/blob/master/Shopify-Data%20Science%20Intern%20Challenge%202021.ipynb) for my answers.
+Please visit the notebook [link](https://github.com/kiranrawat/Shopify-DS-Challenge/blob/master/Shopify-Data%20Science%20Intern%20Challenge%202021.ipynb) for my answers.
 
